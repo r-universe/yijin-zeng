@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "abwm"]
 	path = abwm
-	url = https://github.com/cran/abwm
+	url = https://github.com/yijin-zeng/abwm
 [submodule "bosfr"]
 	path = bosfr
 	url = https://github.com/cran/bosfr
